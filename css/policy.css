@@ -4,7 +4,7 @@
   color: #222222;
   font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
   font-size: 0.9375rem;
-  line-height: 1.75;
+  line-height: 1.6;
   word-break: keep-all;
   overflow-wrap: anywhere;
 }
@@ -74,7 +74,7 @@
   border-collapse: collapse;
   color: #555555;
   font-size: 0.8125rem;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 .policy-table th,
 .policy-table td {
