@@ -57,12 +57,13 @@ $policy-max: 46rem;
     font-size: 0.8125rem;
   }
 
+  // [D] 항목(1., 2. …) 사이는 넓게, 항목 제목과 그 내용 사이는 좁게 두어 무엇이 한 덩어리인지 보이게 합니다.
   &-section {
-    margin-top: 2rem;
+    margin-top: 2.75rem;
   }
 
   &-heading {
-    margin: 0 0 0.625rem;
+    margin: 0 0 0.25rem;
     font-size: 1.0625rem;
     font-weight: 700;
     line-height: 1.45;
